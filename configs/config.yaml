@@ -1,0 +1,75 @@
+project: # About the project
+    name: DoorGlassFallingClassification
+    description: >
+        A model that best detections three sounds which are
+        the door, glass breaking, and falling sounds. Development
+        starts in month of July 2024
+    version: 1.0
+    
+tree: # config.yaml is not including because conveniency
+    description: >
+        This are the description and listing of important files and folders
+    configs:
+        description: >
+            Settings for logs, models, evaluation, testing, and info for data tinkering
+        log_config.yaml:
+            description: >
+                log levels and handles
+        dataset_config.yaml:
+            description: >
+                contents of the external and internal data source
+        preprocess_config.yaml:
+            description: >
+                handles on and off status for applying preprocess techniques
+    data:
+        description: >
+            Holds all datasets which its only role in the project
+        raw:
+            description: >
+                Holds unprocessed dataset that is designed by I
+        processed:
+            description: >
+                Preprocessed and already used during training or testing
+        interim:
+            description: >
+                Processed by not yet ready for used
+        external:
+            description: >
+                Dataset that is completely being used that match the objective of the project
+    evaluation:
+        description: >
+            Testing with different methods and compiling the conclusion
+    logs:
+        description: >
+            Debugging, testing, documentation, and alerting 
+    notebooks:
+        description: >
+            Experimental and Exploratory purposes with the idea of prototyping and tracing bullets
+    reports:
+        description: >
+            Important data to considered such as data understanding, performance, and milestones
+        figures:
+            description: >
+                Graphs and Plots
+    src:
+        description: >
+            All python and scripting files
+        preprocessing:
+            description: >
+                All processing steps require to create and deploy train, test, or validation
+        model:
+            description: >
+                All steps for training a model
+        scraping:
+            description: >
+                Scripts for fetching datasets online
+        utilities:
+            description: >
+                Universal tools that are useful to be flexible
+        weights:
+            description: >
+                All saved models
+    app.py:
+        description: >
+            Initialization and the root
+            

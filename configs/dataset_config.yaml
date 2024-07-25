@@ -1,0 +1,15 @@
+version: 1
+internal:
+    description: >
+        This are the controlled datasets.
+
+external:
+    description: >
+        This are the datasets that have outside publishers.
+    esc50:
+        description: >
+            This is a dataset that contains multiple environment sounds
+            that is a wide range which requires filtering
+        url: https://drive.google.com/file/d/1ow5zvjqUhqZ7UiuyY0VVqtBvNopWG9KK/view?usp=sharing
+        
+        

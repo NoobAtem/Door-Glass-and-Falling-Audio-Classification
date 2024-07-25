@@ -1,0 +1,52 @@
+version: 1
+disable_existing_loggers: True
+
+formatters:
+    standard:
+        format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+handlers:
+    console:
+        class: logging.StreamHandler
+        level: DEBUG
+        formatter: standard
+        stream: ext://sys.stdout
+    file:
+        class: logging.FileHandler
+        level: ERROR
+        formatter: standard
+        filename: logs/info.log
+
+loggers:
+    src.model:
+        level: DEBUG
+        handlers: [file, console]
+        propogate: False
+    src.preprocess:
+        level: DEBUG
+        handlers: [file, console]
+        propogate: False
+    src.utilities.system:
+        level: DEBUG
+        handlers: [file]
+        propogate: False
+    src.scraping.drive:
+        level: DEBUG
+        handlers: [file, console]
+        propogate: False
+    src.preprocessing.audio:
+        level: DEBUG
+        handlers: [file, console]
+        propogate: False
+    src.utilities.view:
+        level: DEBUG
+        handlers: [file]
+        propogate: False
+    evaluation:
+        level: DEBUG
+        handlers: [console]
+        propogate: True
+
+root:
+    level: DEBUG
+    handlers: [console, file]
