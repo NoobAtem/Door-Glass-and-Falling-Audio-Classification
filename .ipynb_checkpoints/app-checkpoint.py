@@ -22,7 +22,9 @@ from queue import Queue
 
 # Modules
 import src.scraping.drive as drive
+import src.model.model as model
 import src.preprocessing.audio as audio
+import api.server_api as server_api
 
 def read_config(filepath: str) -> dict:
     with open(filepath, "r") as yml:
@@ -44,7 +46,7 @@ def run_module(filename: str) -> None:
     """
         Handle running each module scripts
     """
-    print(f"Running Module {filename}")
+    logging.debug(f"Running Module {filename}")
     if not filename.endswith(".py"):
         logging.error("Module does not exsist")
         return
@@ -54,6 +56,12 @@ def run_module(filename: str) -> None:
     if filename.endswith("audio.py"):
         logging.info("Module audio has been called")
         audio.entry()
+    if filename.endswith("model.py"):
+        logging.info("Module model has been called")
+        model.entry()
+    if filename.endswith("server_api.py"):
+        logging.info("Module server has been called")
+        server_api.entry()
     else:
         logging.error("Module does not exist")
 
@@ -77,7 +85,6 @@ def proj_health() -> None:
     q.put([]) # Start with root
     while not q.empty():
         # Pop the bottom item
-        logging.debug(f"Queue: {list(q.queue)}")
         path: list = q.get()
         # Track tree
         _dir: dict = tree
@@ -87,11 +94,9 @@ def proj_health() -> None:
             _dir = _dir[i]
             _p += i + "/" 
 
-        logging.info(f"Tree Dictionary: {_p}")
         # Verify path
         for key, val in enumerate(_dir):
             if not val == "description":
-                logging.info(f"Verifying Path: {val}")
                 temp_p: str = os.path.join(_p, val)
                 if not os.path.exists(temp_p):
                     logging.error(f"Missing path: {temp_p}")

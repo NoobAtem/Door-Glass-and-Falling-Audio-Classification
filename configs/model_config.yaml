@@ -1,0 +1,9 @@
+version: 1.0
+# This is for when saving
+flags:
+    ESC50_DATA: 0
+    RAW_DOOR_1_DATA: 1
+    RAW_GLASS_2_DATA: 2
+yamnet:
+    model:
+        - src/weights/07-29-2024-3-40.keras

@@ -9,6 +9,16 @@ project: # About the project
 tree: # config.yaml is not including because conveniency
     description: >
         This are the description and listing of important files and folders
+    docs:
+        description: >
+            Any important assets or documentation is stored here
+    api:
+        description: >
+            All interface that I or other communicates from in a network like request etc
+        server_api.py:
+            description: >
+                If you want to request a model and predict. You can run it in as a flag
+        
     configs:
         description: >
             Settings for logs, models, evaluation, testing, and info for data tinkering
@@ -36,7 +46,10 @@ tree: # config.yaml is not including because conveniency
         external:
             description: >
                 Dataset that is completely being used that match the objective of the project
-    evaluation:
+    tests:
+        client_test.py:
+            description: >
+                Test the functionality of the server
         description: >
             Testing with different methods and compiling the conclusion
     logs:

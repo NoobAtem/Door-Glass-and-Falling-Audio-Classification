@@ -1,0 +1,9 @@
+version: 1.0
+ip: 192.168.1.6
+port: 3008
+listen: 5
+chunk: 4090
+destination: api/res # Were the server will store the audio
+model: 
+    - 07-29-2024-3-40.keras
+    - yamnet_classifier.keras

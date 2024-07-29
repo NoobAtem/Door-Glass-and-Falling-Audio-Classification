@@ -4,3 +4,558 @@
 2024-07-25 05:05:27,339 - src.utilities.system - ERROR - Path does not exist: esc50
 2024-07-25 10:18:14,955 - src.utilities.system - ERROR - Path does not exist: 1ow5zvjqUhqZ7UiuyY0VVqtBvNopWG9KK
 2024-07-25 10:18:14,955 - src.utilities.system - ERROR - Path does not exist: 1ow5zvjqUhqZ7UiuyY0VVqtBvNopWG9KK
+2024-07-27 11:06:02,187 - src.utilities.system - ERROR - Not a valid path: d
+2024-07-27 11:06:02,187 - src.utilities.system - ERROR - Not a valid path: d
+2024-07-27 11:08:39,703 - src.utilities.system - ERROR - Not a valid path: d
+2024-07-27 11:08:39,703 - src.utilities.system - ERROR - Not a valid path: d
+2024-07-27 11:15:00,885 - src.utilities.system - ERROR - Not a valid path: d
+2024-07-27 11:15:00,885 - src.utilities.system - ERROR - Not a valid path: d
+2024-07-27 11:15:24,591 - src.utilities.system - ERROR - Not a valid path: d
+2024-07-27 11:15:24,591 - src.utilities.system - ERROR - Not a valid path: d
+2024-07-28 04:26:25,339 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,339 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,379 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,379 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,417 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,417 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,455 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,455 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,493 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,493 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,531 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,531 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,568 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,568 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,606 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,606 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,644 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,644 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,682 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,682 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,720 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,720 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,757 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,757 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,795 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,795 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,833 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,833 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,872 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,872 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,910 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,910 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,948 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,948 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,985 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:25,985 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,023 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,023 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,061 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,061 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,098 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,098 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,136 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,136 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,174 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,174 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,212 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,212 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,250 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,250 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,288 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,288 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,326 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,326 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,363 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,363 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,401 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,401 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,439 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,439 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,477 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,477 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,515 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,515 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,554 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,554 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,592 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,592 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,630 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,630 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,668 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,668 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,706 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,706 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,745 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,745 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,782 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,782 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,820 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,820 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,858 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,858 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,896 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,896 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,935 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,935 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,973 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:26,973 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,011 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,011 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,049 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,049 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,088 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,088 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,125 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,125 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,163 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,163 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,202 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,202 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,240 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,240 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,278 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,278 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,316 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,316 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,353 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,353 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,391 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,391 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,429 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,429 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,467 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,467 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,506 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,506 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,543 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,543 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,581 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,581 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,619 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,619 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,657 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,657 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,695 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,695 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,733 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,733 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,772 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,772 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,809 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,809 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,847 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,847 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,885 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,885 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,923 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,923 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,961 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,961 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,999 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:27,999 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,037 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,037 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,076 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,076 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,115 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,115 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,153 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,153 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,191 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,191 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,229 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,229 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,268 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,268 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,306 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,306 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,344 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,344 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,382 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,382 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,420 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,420 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,458 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,458 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,496 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,496 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,534 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,534 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,572 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,572 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,610 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,610 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,648 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,648 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,686 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,686 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,724 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,724 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,762 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,762 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,800 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,800 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,838 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,838 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,877 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,877 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,915 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,915 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,954 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,954 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,992 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:28,992 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,030 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,030 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,068 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,068 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,106 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,106 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,144 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,144 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,182 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,182 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,220 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,220 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,258 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,258 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,296 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,296 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,334 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,334 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,372 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,372 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,410 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,410 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,449 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,449 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,487 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,487 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,525 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,525 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,563 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,563 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,601 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,601 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,639 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,639 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,677 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,677 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,715 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,715 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,754 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,754 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,791 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,791 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,830 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,830 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,867 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 04:26:29,867 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,100 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,100 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,140 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,140 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,179 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,179 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,218 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,218 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,256 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,256 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,299 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,299 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,342 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,342 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,384 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,384 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,425 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,425 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,466 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,466 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,511 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,511 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,553 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,553 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,595 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,595 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,638 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,638 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,679 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,679 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,718 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,718 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,757 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,757 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,795 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,795 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,834 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,834 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,872 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,872 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,910 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,910 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,948 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,948 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,986 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:31,986 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,024 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,024 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,063 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,063 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,101 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,101 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,139 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,139 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,177 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,177 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,214 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,214 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,253 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,253 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,291 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,291 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,330 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,330 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,369 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,369 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,408 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,408 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,447 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,447 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,485 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,485 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,524 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,524 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,564 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,564 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,602 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,602 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,640 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,640 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,678 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,678 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,716 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,716 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,754 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,754 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,792 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,792 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,829 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,829 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,867 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,867 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,905 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,905 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,944 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,944 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,983 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:32,983 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,020 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,020 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,058 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,058 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,096 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,096 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,134 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,134 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,172 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,172 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,210 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,210 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,247 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,247 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,285 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,285 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,323 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,323 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,362 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,362 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,400 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,400 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,437 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,437 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,475 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,475 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,513 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,513 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,552 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,552 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,591 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,591 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,629 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,629 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,667 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,667 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,705 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,705 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,743 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,743 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,781 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,781 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,819 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,819 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,857 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,857 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,895 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,895 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,933 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,933 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,970 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:33,970 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,008 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,008 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,046 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,046 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,084 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,084 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,122 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,122 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,161 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,161 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,199 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,199 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,237 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,237 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,274 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,274 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,312 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,312 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,350 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,350 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,388 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,388 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,426 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,426 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,464 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,464 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,502 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,502 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,540 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,540 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,578 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,578 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,616 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,616 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,654 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,654 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,692 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,692 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,730 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,730 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,768 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,768 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,806 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,806 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,843 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,843 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,881 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,881 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,919 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,919 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,956 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,956 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,994 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:34,994 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,032 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,032 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,083 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,083 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,120 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,120 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,158 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,158 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,195 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,195 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,232 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,232 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,270 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,270 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,308 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,308 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,346 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,346 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,385 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,385 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,423 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,423 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,461 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,461 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,499 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,499 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,538 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,538 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,576 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,576 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,614 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,614 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,651 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,651 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,689 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-28 05:28:35,689 - src.preprocessing.datafilter - ERROR - Invalid step 0
+2024-07-29 02:45:58,612 - src.model.yamnet - ERROR - Not a valid path: data/raw/glass/glass-100.wav
+2024-07-29 02:45:58,612 - src.model.yamnet - ERROR - Not a valid path: data/raw/glass/glass-100.wav
+2024-07-29 06:44:32,793 - root - ERROR - Module does not exist
+2024-07-29 08:10:38,550 - root - ERROR - Module does not exist
+2024-07-29 08:23:27,853 - root - ERROR - Module does not exist
+2024-07-29 13:05:24,947 - api.server_api - ERROR - Error: <class 'src.model.yamnet.YamnetClassifier'> could not be deserialized properly. Please ensure that components that are Python object instances (layers, models, etc.) returned by `get_config()` are explicitly deserialized in the model's `from_config()` method.
+
+config={'module': 'src.model.yamnet', 'class_name': 'YamnetClassifier', 'config': {'trainable': True, 'dtype': {'module': 'keras', 'class_name': 'DTypePolicy', 'config': {'name': 'float32'}, 'registered_name': None}}, 'registered_name': 'YamnetClassifier'}.
+
+Exception encountered: Unable to revive model from config. When overriding the `get_config()` method, make sure that the returned config contains all items used as arguments in the  constructor to <class 'src.model.yamnet.YamnetClassifier'>, which is the default behavior. You can override this default behavior by defining a `from_config(cls, config)` class method to specify how to create an instance of YamnetClassifier from its config.
+
+Received config={'trainable': True, 'dtype': {'module': 'keras', 'class_name': 'DTypePolicy', 'config': {'name': 'float32'}, 'registered_name': None}}
+
+Error encountered during deserialization: YamnetClassifier.__init__() got an unexpected keyword argument 'trainable'
+2024-07-29 13:05:24,947 - api.server_api - ERROR - Error: <class 'src.model.yamnet.YamnetClassifier'> could not be deserialized properly. Please ensure that components that are Python object instances (layers, models, etc.) returned by `get_config()` are explicitly deserialized in the model's `from_config()` method.
+
+config={'module': 'src.model.yamnet', 'class_name': 'YamnetClassifier', 'config': {'trainable': True, 'dtype': {'module': 'keras', 'class_name': 'DTypePolicy', 'config': {'name': 'float32'}, 'registered_name': None}}, 'registered_name': 'YamnetClassifier'}.
+
+Exception encountered: Unable to revive model from config. When overriding the `get_config()` method, make sure that the returned config contains all items used as arguments in the  constructor to <class 'src.model.yamnet.YamnetClassifier'>, which is the default behavior. You can override this default behavior by defining a `from_config(cls, config)` class method to specify how to create an instance of YamnetClassifier from its config.
+
+Received config={'trainable': True, 'dtype': {'module': 'keras', 'class_name': 'DTypePolicy', 'config': {'name': 'float32'}, 'registered_name': None}}
+
+Error encountered during deserialization: YamnetClassifier.__init__() got an unexpected keyword argument 'trainable'
+2024-07-29 13:13:16,725 - api.model_api - ERROR - An error occurred: <class 'src.model.yamnet.YamnetClassifier'> could not be deserialized properly. Please ensure that components that are Python object instances (layers, models, etc.) returned by `get_config()` are explicitly deserialized in the model's `from_config()` method.
+
+config={'module': 'src.model.yamnet', 'class_name': 'YamnetClassifier', 'config': {'trainable': True, 'dtype': {'module': 'keras', 'class_name': 'DTypePolicy', 'config': {'name': 'float32'}, 'registered_name': None}}, 'registered_name': 'YamnetClassifier'}.
+
+Exception encountered: Unable to revive model from config. When overriding the `get_config()` method, make sure that the returned config contains all items used as arguments in the  constructor to <class 'src.model.yamnet.YamnetClassifier'>, which is the default behavior. You can override this default behavior by defining a `from_config(cls, config)` class method to specify how to create an instance of YamnetClassifier from its config.
+
+Received config={'trainable': True, 'dtype': {'module': 'keras', 'class_name': 'DTypePolicy', 'config': {'name': 'float32'}, 'registered_name': None}}
+
+Error encountered during deserialization: YamnetClassifier.__init__() got an unexpected keyword argument 'trainable'
+2024-07-29 13:13:16,725 - api.model_api - ERROR - An error occurred: <class 'src.model.yamnet.YamnetClassifier'> could not be deserialized properly. Please ensure that components that are Python object instances (layers, models, etc.) returned by `get_config()` are explicitly deserialized in the model's `from_config()` method.
+
+config={'module': 'src.model.yamnet', 'class_name': 'YamnetClassifier', 'config': {'trainable': True, 'dtype': {'module': 'keras', 'class_name': 'DTypePolicy', 'config': {'name': 'float32'}, 'registered_name': None}}, 'registered_name': 'YamnetClassifier'}.
+
+Exception encountered: Unable to revive model from config. When overriding the `get_config()` method, make sure that the returned config contains all items used as arguments in the  constructor to <class 'src.model.yamnet.YamnetClassifier'>, which is the default behavior. You can override this default behavior by defining a `from_config(cls, config)` class method to specify how to create an instance of YamnetClassifier from its config.
+
+Received config={'trainable': True, 'dtype': {'module': 'keras', 'class_name': 'DTypePolicy', 'config': {'name': 'float32'}, 'registered_name': None}}
+
+Error encountered during deserialization: YamnetClassifier.__init__() got an unexpected keyword argument 'trainable'
+2024-07-29 13:17:34,282 - api.model_api - ERROR - An error occurred: stat: path should be string, bytes, os.PathLike or integer, not dict
+2024-07-29 13:17:34,282 - api.model_api - ERROR - An error occurred: stat: path should be string, bytes, os.PathLike or integer, not dict
+2024-07-29 13:19:45,779 - api.model_api - ERROR - An error occurred: 'config_path'
+2024-07-29 13:19:45,779 - api.model_api - ERROR - An error occurred: 'config_path'
+2024-07-29 13:20:55,023 - api.model_api - ERROR - An error occurred: 'config_path'
+2024-07-29 13:20:55,023 - api.model_api - ERROR - An error occurred: 'config_path'
+2024-07-29 13:28:36,972 - api.model_api - ERROR - An error occurred: module 'src.model.model' has no attribute 'ModelHandler'
+2024-07-29 13:28:36,972 - api.model_api - ERROR - An error occurred: module 'src.model.model' has no attribute 'ModelHandler'
+2024-07-29 14:09:47,584 - root - ERROR - Missing path: api/server
+2024-07-29 14:10:49,321 - root - ERROR - Missing path: api/server_api
+2024-07-29 14:46:56,428 - api.model_api - ERROR - An error occurred: Exception encountered when calling YamnetClassifier.call().
+
+[1mBinding inputs to tf.function failed due to `Can not cast TensorSpec(shape=(1, 80000), dtype=tf.float32, name=None) to TensorSpec(shape=(None,), dtype=tf.float32, name=None)`. Received args: (<tf.Tensor: shape=(1, 80000), dtype=float32, numpy=
+array([[-0.0005698 , -0.00075814, -0.00064986, ..., -0.02881123,
+        -0.02743108, -0.03057759]], dtype=float32)>,) and kwargs: {} for signature: (waveform: TensorSpec(shape=(None,), dtype=tf.float32, name=None)).[0m
+
+Arguments received by YamnetClassifier.call():
+  • inputs=tf.Tensor(shape=(1, 80000), dtype=float32)
+2024-07-29 14:46:56,428 - api.model_api - ERROR - An error occurred: Exception encountered when calling YamnetClassifier.call().
+
+[1mBinding inputs to tf.function failed due to `Can not cast TensorSpec(shape=(1, 80000), dtype=tf.float32, name=None) to TensorSpec(shape=(None,), dtype=tf.float32, name=None)`. Received args: (<tf.Tensor: shape=(1, 80000), dtype=float32, numpy=
+array([[-0.0005698 , -0.00075814, -0.00064986, ..., -0.02881123,
+        -0.02743108, -0.03057759]], dtype=float32)>,) and kwargs: {} for signature: (waveform: TensorSpec(shape=(None,), dtype=tf.float32, name=None)).[0m
+
+Arguments received by YamnetClassifier.call():
+  • inputs=tf.Tensor(shape=(1, 80000), dtype=float32)

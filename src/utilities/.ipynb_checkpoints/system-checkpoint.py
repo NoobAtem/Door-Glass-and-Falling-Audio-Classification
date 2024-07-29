@@ -6,6 +6,7 @@
 """
 
 import yaml
+import librosa
 import shutil
 import os
 import logging
@@ -165,3 +166,13 @@ def check_dataset_health() -> dict:
                 logging.debug(f"Missing external entity: {val}")
                 _missing["external"][val] = _conf["external"][val]["url"]
     return _missing
+
+def load_audio(filepath: str, sr: int = 16000):
+    audio_data, sr = librosa.load(filepath, sr=sr)
+    return audio_data
+
+def get_filename(path: str) -> str:
+    if is_not_a_path(path) or not os.path.isfile(path):
+        logging.error(f"Not a valid path: {path}")
+
+    return path.split("/")[-1].split(".")[0]

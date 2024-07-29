@@ -11,5 +11,13 @@ external:
             This is a dataset that contains multiple environment sounds
             that is a wide range which requires filtering
         url: https://drive.google.com/file/d/1ow5zvjqUhqZ7UiuyY0VVqtBvNopWG9KK/view?usp=sharing
+    door1:
+        description: >
+            This is the dataset by Rion Hermoso through the process of web scraping
+        url: https://drive.google.com/file/d/1L0l43eZ9xFoKeidE26kEjPYIBFi3pqZs/view?usp=drive_link
+    glass1:
+        description: >
+            This is the dataset by Rion Hermoso through the process of web scraping
+        url: https://drive.google.com/file/d/1mTfk6Y3eXDlD_MhFvPd21A5ZCmm_QFlj/view?usp=sharing
         
         

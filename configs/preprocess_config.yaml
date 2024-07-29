@@ -1,3 +1,44 @@
 version: 1.0
-noise: No
-snr: 10
+segment: 
+    status: Yes
+    # Millisecond
+    duration: 5000
+    overlap: 100
+noise:
+    status: Yes
+    snr: 10
+
+augmented:
+    status: Yes
+    stretch:
+        factor: 0.9
+    shift:
+        step: 10
+        nsteps: 0
+
+features:
+    csv: Yes
+    image: Yes
+
+target:
+    for_image: Yes # Generate target csv based on the output of image
+
+# This will handle all of the results that will be saved
+unprocess:
+    path: data/raw
+    content:
+        door:
+        glass:
+        metadata.csv:
+    display:
+        path: reports/figures/raw/
+        
+process:
+    path: data/interim
+    content:
+        image:    
+        feature.csv:
+        target.csv:
+        audio:
+    display:
+        path: reports/figures/interim/

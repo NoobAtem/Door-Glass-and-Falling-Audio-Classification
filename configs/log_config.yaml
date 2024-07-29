@@ -18,7 +18,15 @@ handlers:
         filename: logs/info.log
 
 loggers:
-    src.model:
+    api.server_api:
+        level: DEBUG
+        handlers: [file, console]
+        propogate: False
+    api.model_api:
+        level: DEBUG
+        handlers: [file, console]
+        propogate: False
+    src.model.yamnet:
         level: DEBUG
         handlers: [file, console]
         propogate: False
@@ -36,16 +44,28 @@ loggers:
         propogate: False
     src.preprocessing.audio:
         level: DEBUG
-        handlers: [file, console]
+        handlers: [file]
         propogate: False
+    src.preprocessing.datafilter:
+        level: DEBUG
+        handlers: [file]
+        propogate: False
+    src.preprocessing.feature:
+        level: DEBUG
+        handlers: [file]
+        propogate: False
+    src.preprocessing.graph:
+        level: DEBUG
+        handlers: [file]
+        propogate: False        
     src.utilities.view:
         level: DEBUG
         handlers: [file]
         propogate: False
-    evaluation:
+    src.utilities.prepare:
         level: DEBUG
-        handlers: [console]
-        propogate: True
+        handlers: [file]
+        propogate: False
 
 root:
     level: DEBUG

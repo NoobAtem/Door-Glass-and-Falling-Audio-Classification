@@ -37,11 +37,13 @@ class AudioDataSource:
         # Get only audio files
         for aud in rdoor:
             if aud.endswith(".wav"):
-                self.rdoor.append(aud)
+                logging.info(f"Adding {aud}")
+                self.rdoor.append(os.path.join(self.rdoor_p, aud))
 
         for aud in rglass:
             if aud.endswith(".wav"):
-                self.rglass.append(aud)
+                logging.info(f"Adding {aud}")
+                self.rglass.append(os.path.join(self.rglass_p, aud))
         
         self.rdoor_i: int = len(self.rdoor)
         self.rglass_i: int = len(self.rglass)
@@ -52,20 +54,27 @@ class AudioDataSource:
         self.rglass_p: str = os.path.join("data", "raw", "glass")
         self.interim_p: str = os.path.join("data", "interim")
         self.preprocessed_p: str = os.path.join("data", "preprocessed")
+        logging.debug(f"Path name: {self.rdoor_p}")
+        logging.debug(f"Path name: {self.rglass_p}")
+        logging.debug(f"Path name: {self.interim_p}")
+        logging.debug(f"Path name: {self.preprocessed_p}")
 
     def getRawDoorAudio(self) -> list:
         logging.info("Raw door audio have been requested")
-        return self.rdoor_p
+        return self.rdoor
         
     def getRawGlassAudio(self) -> list:
         logging.info("Raw glass audio have been requested")
-        return self.rglass_p
+        return self.rglass
 
     def getRawAudio(self) -> list:
-        return getRawDoorAudio + getRawGlassAudio
+        return self.getRawDoorAudio() + self.getRawGlassAudio()
 
     def getInterimPath(self) -> str:
         return self.interim_p
 
     def getPreprocessPath(self) -> str:
         return self.preprocessed_p
+
+
+    
