@@ -45,7 +45,7 @@ An in-depth discussion on important folders and files.
 ### Step by Step Usage
 To start using the project, we need to first have the root directory to an empty folder using git.
 ```
-    git pull origin yamnetV0.1.0
+    git pull origin https://github.com/NoobAtem/Door-Glass-and-Falling-Audio-Classification/tree/yamnetV0.1.0
 ```
 Once received, the project will contain a requirements.txt that you need to run (either from the virtual environment or the global system) this code `pip3 install -r requiremnets.txt`. The `app.py` is the entry point of the project source files. There are a few flags defined in the file that you can use through system arguments. I will layout these commands\flags with their respective syntax.
 ```
