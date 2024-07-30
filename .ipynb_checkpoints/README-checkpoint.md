@@ -45,7 +45,7 @@ An in-depth discussion on important folders and files.
 ### Step by Step Usage
 To start using the project, we need to first have the root directory to an empty folder using git.
 ```
-    git pull origin yamnetV0.1.0
+    git pull origin https://github.com/NoobAtem/Door-Glass-and-Falling-Audio-Classification/tree/yamnetV0.1.0
 ```
 Once received, the project will contain a requirements.txt that you need to run (either from the virtual environment or the global system) this code `pip3 install -r requiremnets.txt`. The `app.py` is the entry point of the project source files. There are a few flags defined in the file that you can use through system arguments. I will layout these commands\flags with their respective syntax.
 ```
@@ -63,6 +63,8 @@ Let's try checking the health of the project, type this following command (make 
 ![Screenshot of a result of the -ch command](docs/assets/screenshot_result_0.png)
 Now we finally proceed to the server api of the project. The network_config.yaml found in the configs folders has all the information need to connect to the server. The host address and the port can be modify by the project owner and such, feel free to modify the configuration settings. To run the module, simply type `python3 app.py -s server_api.py`.
 
+> [!CAUTION]
+> The duration of the audio is fixed to 5 seconds. The segmentation process is yet to be integrated with the that use of a window function before the input to the model.
 > [!NOTE]
 > This tutorial is only akin to the server api side of the project not the development portion.
 

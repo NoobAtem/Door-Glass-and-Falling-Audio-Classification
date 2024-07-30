@@ -6,6 +6,7 @@
 import socket
 import yaml
 import logging
+import os
 
 def read_yaml(filepath: str) -> dict:
     with open(filepath, "rb") as yml:
@@ -41,5 +42,6 @@ def send_audio(filename: str) -> None:
         client_socket.close()
 
 if __name__ == "__main__":
-    audio_to_send = 'data/raw/door/door-4.wav'  # Replace with your WAV file path
+    print(os.listdir("data/external"))
+    audio_to_send = 'data/external/Door sounds/Door Opening 1.wav'  # Replace with your WAV file path
     send_audio(audio_to_send)

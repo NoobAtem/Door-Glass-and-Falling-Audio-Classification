@@ -559,3 +559,28 @@ array([[-0.0005698 , -0.00075814, -0.00064986, ..., -0.02881123,
 
 Arguments received by YamnetClassifier.call():
   • inputs=tf.Tensor(shape=(1, 80000), dtype=float32)
+2024-07-30 04:41:27,445 - root - ERROR - Module does not exist
+2024-07-30 04:41:57,648 - api.model_api - ERROR - An error occurred: 
+2024-07-30 04:41:57,648 - api.model_api - ERROR - An error occurred: 
+2024-07-30 04:42:05,645 - api.model_api - ERROR - An error occurred: 
+2024-07-30 04:42:05,645 - api.model_api - ERROR - An error occurred: 
+2024-07-30 04:43:04,820 - api.model_api - ERROR - An error occurred: 
+2024-07-30 04:43:04,820 - api.model_api - ERROR - An error occurred: 
+2024-07-30 04:43:18,200 - api.model_api - ERROR - An error occurred: 
+2024-07-30 04:43:18,200 - api.model_api - ERROR - An error occurred: 
+2024-07-30 04:44:50,892 - api.model_api - ERROR - An error occurred: Exception encountered when calling Sequential.call().
+
+[1mInput 0 of layer "dense" is incompatible with the layer: expected axis -1 of input shape to have value 10240, but received input with shape (1, 9216)[0m
+
+Arguments received by Sequential.call():
+  • inputs=tf.Tensor(shape=(1, 9, 1024), dtype=float32)
+  • training=None
+  • mask=None
+2024-07-30 04:44:50,892 - api.model_api - ERROR - An error occurred: Exception encountered when calling Sequential.call().
+
+[1mInput 0 of layer "dense" is incompatible with the layer: expected axis -1 of input shape to have value 10240, but received input with shape (1, 9216)[0m
+
+Arguments received by Sequential.call():
+  • inputs=tf.Tensor(shape=(1, 9, 1024), dtype=float32)
+  • training=None
+  • mask=None
